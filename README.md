@@ -20,13 +20,21 @@
 
 ## Hotel Booking Details
 
-| Stay | Location | Hotel and address | Check-in / check-out | Confirmation | Room and notes |
+| Stay | Location | Hotel and address | Price per night (USD)| Confirmation | Room and notes | 
 | --- | --- | --- | --- | --- | --- |
-| 19-21 Feb (2 nights) | Santiago, Lastarria/Bellas Artes |  |  |  |  |
-| 21-24 Feb (3 nights) | Torres del Paine, Rio Serrano |  |  |  | Twin room, private bathroom |
-| 24-27 Feb (3 nights) | Buenos Aires, Palermo/Recoleta |  |  |  |  |
+| 19-21 Feb (2 nights) | Bellavista, Santiago | NH Ciudad de Santiago | 74 |  |  |
+|  |  | Le Meridien | 110 |  |  |
+| 21-24 Feb (3 nights) | Rio Serrano, Torres del Paine | Rio Serrano Hotel | 400 |  | Twin room, private bathroom |
+|  |  | Lodge Morrena Torres del Paine | 450 |  |  |
+| 24-27 Feb (3 nights) | Palermo soho, Buenos Aires /Recoleta |  |  |  |  |
+|  |  | Bromelia Hotel Boutique | 130 |  |  |
+|  |  | Casa Chic Hotel Boutique | 131 |  |  |
 | 27 Feb-1 Mar (2 nights) | Puerto Iguazu |  |  |  |  |
+|  |  | Raíces Esturión Iguazú | 120 |  |  |
+|  |  | Iguazu Jungle Lodge | 125 |  |  |
 | 1-4 Mar (3 nights) | Puerto Madryn, waterfront |  |  |  |  |
+|  |  | Dazzler by Wyndham Puerto Madryn | 110 |  |  |
+|  |  | Hotel Península Valdés | 108 |  |  |
 | 4-5 Mar (1 night) | Santiago Airport |  |  |  |  |
  
 ## Thu 18 Feb 2027 - Boston Departure
